@@ -1,5 +1,7 @@
 # Open-source Audio Datasets
 
+![audio-catalog](assets/hacktoberfest.png)
+
 [Hacktoberfest](https://hacktoberfest.digitalocean.com) is a month-long virtual festival of open source! Participants are giving back to the community by completing pull requests, participating in events, and donating to open-source projects. This project is part of Hacktoberfest 2021, where participants enrich the open-source audio datasets hosted on DagsHub.
 
 ## Quick Start to Contribution
