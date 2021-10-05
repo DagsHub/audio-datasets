@@ -4,7 +4,7 @@
 
 ## Quick Start to Contribution
 - Sign-up to [Hacktoberfest](https://hacktoberfest.digitalocean.com/profile) & [DagsHub](https://dagshub.com/user/sign_up?redirect_to=).
-- Join our [Hacktoberfest 2021 Discord channel]().
+- Join our [Hacktoberfest 2021 Discord channel](https://discord.gg/xAGgkNht).
 - Read the [contribution guide lines](https://hacktoberfest.digitalocean.com/resources/participation).
 - Create a Pull Requests on the GitHub [audio-datasets](https://github.com/DAGsHub/audio-datasets) repository.
 
@@ -29,5 +29,5 @@ To help audio practitioners leverage this new feature, we want to enrich open-so
   - Add a directory named after the dataset with the README file.
   - Commit and push the changes to GitHub.
   - Create a pull request on GitHub.
-Optional: Share the project on DagsHub [Hacktoberfest 2021 Discord channel]().
+Optional: Share the project on DagsHub [Hacktoberfest 2021 Discord channel](https://discord.gg/xAGgkNht).
 
