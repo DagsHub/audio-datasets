@@ -12,6 +12,8 @@
 ## What does the DagsHub community contribute?
 **This year we'd like to focus our contribution on the audio domain**. For that, we added audio data catalog capabilities to DagsHub! You can now upload audio files to DagsHub and see its spectrogram, wave, and even listen to it! You can see a vivid example of this (extremely cool) feature in our [Librispeech-ASR-corpus](https://dagshub.com/DagsHub/Librispeech-ASR-corpus/src/master/dev-clean/84/121123/84-121123-0000.flac) project.
 
+![audio-catalog](assets/audio-catalog.png)
+
 To help audio practitioners leverage this new feature, we want to enrich open-source audio datasets on DagsHub. This is where you can contribute to the data science community! 
 
 ## How to contribute? 
