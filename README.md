@@ -35,3 +35,26 @@ To help audio practitioners leverage this new feature, we want to enrich open-so
   - Create a pull request on GitHub.
 - Optional: Share the project on DagsHub [Hacktoberfest 2021 Discord channel](https://discord.gg/xAGgkNht).
 
+
+## Hacktoberfest FAQ
+## Does DagsHub provide any special swag? 
+
+DagsHub will send swag to all participants who create at least 2 pull requests during Hacktoberfest. If you make more than 10 pull requests, we'll send special swag your way!
+
+![img](https://dagshub.com/blog/content/images/size/w1000/2021/10/Sunny.jpeg)
+
+Sunny our Chief Dog Scientist getting some of our new swag!
+
+## How can I contact the DagsHub team for support?
+
+The DagsHub team (& community) is available 24/7 in the DagsHub Discord channel. We ask that questions regarding the Hacktoberfest will be asked in the [Hacktoberfest Discord channel.](https://discord.com/invite/xAGgkNht)
+
+Do I need to sign-up for Hacktoberfest to contribute to DagsHub audio datasets?
+You don't need to be a registered Hacktoberfest user to contribute to this project. However, we highly recommend doing it to get a chance to win the challenge and get to know other cool open-source projects.
+
+## I signed up for Hacktoberfest in mid-October. Will pull requests that I created earlier in October count?
+
+Yes, all pull requests created between October 1st and October 31st will count, regardless of when you register for Hacktoberfest. Pull requests created before October 1st but merged or marked as ready for review after do not count. Pull requests that are still in review after October 31st and meet the criteria will count towards your completion goal.
+
+
+
