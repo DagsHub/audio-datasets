@@ -12,7 +12,7 @@ Nomenclature followed while naming the files in the dataset is to provide inform
 
 General Name: SGX_FXX_EYY
 
-For more details about the dataset, please refer to the complete paper "Cross-Lingual Speech Emotion Recognition: Urdu vs. Western Languages". https://arxiv.org/pdf/1812.10411.pdf
+For more details about the dataset, please refer to the complete paper "Cross Lingual Speech Emotion Recognition: Urdu vs. Western Languages". https://arxiv.org/pdf/1812.10411.pdf
 
 ### 2.1 Audio files:
 
@@ -62,7 +62,7 @@ For example, file name SM1_F01_A12 indicates that this is 1st file recorded by s
 
 ## 3. Use Case
 
-Cross-lingual speech emotion recognition is an important task for practical applications. The performance of automatic speech emotion recognition systems degrades in cross-corpus scenarios, particularly in scenarios involving multiple languages or a previously unseen language such as Urdu for which limited or no data is available.
+Cross lingual speech emotion recognition is an important task for practical applications. The performance of automatic speech emotion recognition systems degrades in cross-corpus scenarios, particularly in scenarios involving multiple languages or a previously unseen language such as Urdu for which limited or no data is available.
 
 ## 4. Results
 
