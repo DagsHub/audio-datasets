@@ -17,8 +17,11 @@ For more details about the dataset, please refer to the complete paper "Cross-Li
 ### 2.1 Audio files:
 
 * [21M] Angry - of approximately 242 seconds of "clean" speech in `.wav` format **(pushed to DagsHub)**
+ 
 * [21M] Happy - of approximately 244 seconds of "clean" speech `.wav` format **(pushed to DagsHub)**
+ 
 * [21M] Neutral - of approximately 244 seconds of "clean" speech `.wav` format **(pushed to DagsHub)**
+
 * [21M] Sad - of approximately 244 seconds of "clean" speech `.wav` format **(pushed to DagsHub)**
 
 ### 2.2 Organization of the Emotions dataset
