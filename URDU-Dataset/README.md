@@ -2,7 +2,7 @@
 
 ## 1. General information
 
-The URDU dataset contains emotional utterances of Urdu speech drawn from Urdu talk shows. There are 400 utterances of four basic emotions in the book: Angry, Happy, Neutral, and Emotion. There are 38 speakers (27 male and 11 female). This data is created from YouTube. Speakers are randomly selected.
+The URDU dataset contains emotional utterances of Urdu speech gathered from Urdu talk shows. There are 400 utterances of four basic emotions in the book: Angry, Happy, Neutral, and Emotion. There are 38 speakers (27 male and 11 female). This data is created from YouTube. Speakers are randomly selected.
 
 **The similar version of dataset is uploaded to DagsHub: [URDU-Dataset](https://dagshub.com/kingabzpro/URDU-Dataset), enabling you to preview the dataset before downloading it.**
 
@@ -23,7 +23,7 @@ For more details about the dataset, please refer to the complete paper "Cross-Li
 
 ### 2.2 Organization of the Emotions dataset
 
-It is a small (88MB) dataset with four folders based on emotions that is easy to navigate. Each folder contains 100 `.wav` audio files containing the emotions of Urdu speakers. The audio file range from 2~3 second of audio taken from a various video uploaded on YouTube. A representation of the directory structure can be seen in the ASCII diagram below.
+The dataset is small (88MB) and simple to navigate as it has 4 folders based on emotions. Each folder contains 100 `.wav` audio files containing the emotions of Urdu speakers. The audio file range from 2~3 second of audio taken from a various video uploaded on YouTube. A representation of the directory structure can be seen in the ASCII diagram below.
 
 ```
 <root directory>
