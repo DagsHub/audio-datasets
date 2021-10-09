@@ -10,11 +10,11 @@ Cleaned Dataset for Voice gender detection using the VoxCeleb dataset (7000+ uni
 
 The [author](https://github.com/jim-schwoebel) have downloaded all the files from [VoxCeleb2](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/). After this, he cleaned the data to separate all the males from the females. I took one voice file at random for all the males and females so as to provide unique files.
 
-[![img](https://github.com/jim-schwoebel/gender-detection/raw/master/data/Screen%20Shot%202019-07-22%20at%2011.16.14%20AM.png)](https://github.com/jim-schwoebel/gender-detection/blob/master/data/Screen Shot 2019-07-22 at 11.16.14 AM.png)
+![img](https://raw.githubusercontent.com/jim-schwoebel/voice_gender_detection/master/data/Screen%20Shot%202019-07-22%20at%2011.16.14%20AM.png)
 
 To prepare the dataset, He put the 'males' and 'females' folders in the data directory of this repository. This will allow for us to featurize the files and train machine learning models via the provided training scripts.
 
-[![img](https://github.com/jim-schwoebel/gender-detection/raw/master/data/Screen%20Shot%202019-07-22%20at%2012.25.49%20PM.png)](https://github.com/jim-schwoebel/gender-detection/blob/master/data/Screen Shot 2019-07-22 at 12.25.49 PM.png)
+![img](https://github.com/jim-schwoebel/gender-detection/raw/master/data/Screen%20Shot%202019-07-22%20at%2012.25.49%20PM.png)
 
 ## 3. Audio File Conversion
 
