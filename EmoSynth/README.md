@@ -5,7 +5,7 @@
 ## 1. General information
 
 The ability of sound to enhance human wellbeing has been known since ancient civilizations, and methods can be found today across domains of health and within a variety of cultures. 
-
+![image](https://dagshub.com/kingabzpro/EmoSynth/raw/master/assets/image.jpg)
 **EmoSynth** is a dataset of 144 audio files which have been labelled by 40 listeners for their the perceived emotion, in regards to the dimensions of Valence and Arousal. 
 
 **The similar version of dataset is uploaded to DagsHub: [EmoSynth](https://dagshub.com/kingabzpro/EmoSynth) , enabling you to preview the dataset before downloading it.**
