@@ -66,7 +66,8 @@ Alice Baird; Emilia Parada-Cabaleiro, Aug 20, 2019
 
 **DAGsHub Dataset:** [kingabzpro/EmoSynth](https://dagshub.com/kingabzpro/EmoSynth)
 
----
+**Photo** by [Jonathan Borba](https://unsplash.com/@jonathanborba?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/romance?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
+---
 *This open source contribution is part of [DagsHub x Hacktoberfest](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)*
 
