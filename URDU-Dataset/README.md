@@ -1,4 +1,5 @@
 # URDU-Dataset
+![banner](https://dagshub.com/kingabzpro/URDU-Dataset/raw/master/asset/urdu-dataset-banner.jpg)
 
 ## 1. General information
 
