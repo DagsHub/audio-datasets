@@ -50,11 +50,11 @@ The dataset is small (106MB) and simple to navigate as it has only one folder ba
 
 ## 3. Results
 
-Results on the dataset show that Arousal does correlate moderately to fundamental frequency, and that the sine waveform is perceived as significantly different to square and sawtooth waveforms when evaluating perceived Arousal. The general results suggest that isolated synthetic audio can be modelled as a means of evoking affective states of emotion.
+Results on the dataset show that Arousal does correlate moderately to fundamental frequency, and that the sine waveform is perceived as significantly different from square and sawtooth waveforms when evaluating perceived Arousal. The general results suggest that isolated synthetic audio can be modelled as a means of evoking affective states of emotion.
 
 ## Acknowledgments
 
-First, I would like to thank Baird, Alice and Parada-Cabaleiro, Emilia and Fraser, Cameron and Hantke, Simone and Schuller, Bjorn for publishing dataset on Zendo and explaining the results. Secondly, I would like to thank Zenodo for maintaining amazing open source dataset.
+First, I would like to thank Baird, Alice and Parada-Cabaleiro, Emilia and Fraser, Cameron and Hantke, Simone and Schuller, Bjorn for publishing dataset on Zendo and explaining the results. Secondly, I would like to thank Zenodo for maintaining an amazing open source dataset.
 
 ------
 
@@ -70,4 +70,3 @@ Alice Baird; Emilia Parada-Cabaleiro, Aug 20, 2019
 
 ---
 *This open source contribution is part of [DagsHub x Hacktoberfest](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)*
-
