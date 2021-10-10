@@ -12,7 +12,7 @@ The [author](https://github.com/jim-schwoebel) have downloaded all the files fro
 
 ![img](https://raw.githubusercontent.com/jim-schwoebel/voice_gender_detection/master/data/Screen%20Shot%202019-07-22%20at%2011.16.14%20AM.png)
 
-To prepare the dataset, He put the 'males' and 'females' folders in the data directory of this repository. This will allow for us to featurize the files and train machine learning models via the provided training scripts.
+To prepare the dataset, He put the 'males' and 'females' folders in the data directory of this repository. This will allow us to featurize the files and train machine learning models via the provided training scripts.
 
 ![img](https://github.com/jim-schwoebel/gender-detection/raw/master/data/Screen%20Shot%202019-07-22%20at%2012.25.49%20PM.png)
 
@@ -74,7 +74,7 @@ most accurate classifier is Hard Voting with audio features (mfcc coefficients).
 
 ## Acknowledgments
 
-First, I would like to thank Jim Schwoebel for publishing dataset on GitHub and explaining in depth how to use this dataset. Secondly, I would like to thank VoxCeleb for providing amazing open source dataset. 
+First, I would like to thank Jim Schwoebel for publishing dataset on GitHub and explaining in depth how to use this dataset. Secondly, I would like to thank VoxCeleb for providing an amazing open source dataset. 
 
 *The VoxCeleb is supported by the EPSRC programme grant [Seebibyte EP/M013774/1: Visual Search for the Era of Big Data.](http://www.robots.ox.ac.uk/~vgg/projects/seebibyte/)*
 
