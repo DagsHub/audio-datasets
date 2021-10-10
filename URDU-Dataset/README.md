@@ -49,7 +49,7 @@ The dataset is small (88MB) and simple to navigate as it has 4 folders based on 
 
 ```
 
-The name of audio file can be divided into three segments which is segregated by underscore(_) sign.
+The name of the audio file can be divided into three segments which are segregated by underscore(_) sign.
 
 Where,
 
@@ -91,4 +91,3 @@ Jun 29, 2018
 ---
 
 *This open source contribution is part of [DagsHub x Hacktoberfest](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)*
-
