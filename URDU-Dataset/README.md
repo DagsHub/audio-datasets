@@ -1,4 +1,5 @@
 # URDU-Dataset
+![banner](https://dagshub.com/kingabzpro/URDU-Dataset/raw/master/asset/urdu-dataset-banner.jpg)
 
 ## 1. General information
 
@@ -84,6 +85,8 @@ Jun 29, 2018
 **Original Dataset**: [Urdu-dataset]( https://github.com/siddiquelatif/urdu-dataset)
 
 **DAGsHub Dataset:** [URDU emotions dataset by Siddique Latif ](https://dagshub.com/kingabzpro/URDU-Dataset)
+
+**Photo** by [Allef Vinicius](https://unsplash.com/@seteph?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/pakistani?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ---
 
