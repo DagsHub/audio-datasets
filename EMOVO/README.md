@@ -12,7 +12,7 @@ A corpus of emotional voice is essential to build systems  of emotion recognitio
 
 ## Corpus Distribution
 
-![image1](../assets/EMOVO/image1.png)
+![image1](../assets/EMOVO/Image1.png)
 
 ## Organization of the dataset
 
@@ -69,7 +69,7 @@ The dataset is small (335 MB) and simple to navigate as it has only six folders 
 
 The listeners were organized in two groups of 12 persons each, hosted  in two different labs. Subjects were asked to guess between 2 emotions. From each actor’s voice 2 nonsense sentences were proposed: this  prevented semantic content from biasing the guess among 7 outcomes. Each subject listened to the signals from a male and a female actor for a  total of 84 tests. The results of the two labs were statistically compatible. Hence, one  table only is presented in one table (see Table I)
 
-![table1](../assets/EMOVO/image2.png)
+![table1](../assets/EMOVO/Image2.png)
 
 ## Use Case
 
