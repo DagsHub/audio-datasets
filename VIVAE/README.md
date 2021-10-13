@@ -83,5 +83,7 @@ For VIVAE usage inquiries not specified or accredited under the CC BY-NC 4.0 lic
 Publication date: October 5, 2020
 Original Dataset: [VIVAE](https://zenodo.org/record/4066235#.YWcWERpByUm)
 
+------
+
 This open source contribution is part of [DagsHub x Hacktoberfest](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
 
