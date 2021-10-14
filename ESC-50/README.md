@@ -84,4 +84,4 @@ Please be aware of potential information leakage while training models on *ESC-5
 
 **This dataset cloned from this repository: [@karolpiczak/ESC-50](https://github.com/karolpiczak/ESC-50)**
 
-You can check this dataset in dagshub repository: [esc50-dataset](https://dagshub.com/kinkusuma/esc50-dataset)
+You can check this dataset in dagshub: [esc50-dataset](https://dagshub.com/kinkusuma/esc50-dataset)
