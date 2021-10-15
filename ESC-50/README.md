@@ -82,6 +82,7 @@ If you find this dataset useful in an academic setting please cite:
 Please be aware of potential information leakage while training models on *ESC-50*, as some of the original Freesound recordings were already preprocessed in a manner that might be class dependent (mostly bandlimiting). Unfortunately, this issue went unnoticed when creating the original version of the dataset. Due to the number of methods already evaluated on *ESC-50*, no changes rectifying this issue will be made in order to preserve comparability.
 
 
-**This dataset cloned from this repository: [@karolpiczak/ESC-50](https://github.com/karolpiczak/ESC-50)**
+You can check this dataset in:
 
-You can check this dataset in dagshub: [esc50-dataset](https://dagshub.com/kinkusuma/esc50-dataset)
+* github: [@karolpiczak/ESC-50](https://github.com/karolpiczak/ESC-50)
+* dagshub: [esc50-dataset](https://dagshub.com/kinkusuma/esc50-dataset)
