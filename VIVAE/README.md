@@ -6,6 +6,8 @@
 
 **Image credit:** [Tengyart](https://unsplash.com/@tengyart) on [Unsplash](https://unsplash.com/)
 
+**The dataset is uploaded to DagsHub: [VIVAE](https://dagshub.com/mert.bozkirr/VIVAE), enabling you to preview the dataset before downloading it.**
+
 ## Summary
 The Variably Intense Vocalizations of Affect and Emotion Corpus (VIVAE) consists of a set of human non-speech emotion vocalizations. The full set, comprising 1085 audio files, features eleven speakers expressing three positive (achievement/ triumph, sexual pleasure, and surprise) and three negative (anger, fear, physical pain) affective states, each parametrically varied from low to peak emotion intensity. The smaller core set of 480 files represents a fully crossed subsample of the full set (6 emotions x 4 intensities x 10 speakers x 2 items) selected based on judged authenticity. 
 
