@@ -1,4 +1,4 @@
-# basic-arabic-vocal-emotions-dataset
+# BAVED Dataset
 
 Basic Arabic Vocal Emotions Dataset (BAVED) is a datasetthat contains an arabic words spelled in diffrent levels of emotions recorded in an audio/wav format.
 
