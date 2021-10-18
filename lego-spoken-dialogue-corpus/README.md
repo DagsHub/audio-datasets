@@ -116,8 +116,7 @@ Annotation Scheme:
 ------------------------------------------------------------------------------------------------------------------------
 Rater guidelines for annotating Interaction Quality
 ------------------------------------------------------------------------------------------------------------------------
-1.
-The rater should try to mirror the users point of view on the interaction as objectively as possible.  
+1. The rater should try to mirror the users point of view on the interaction as objectively as possible.  
 2.
 An exchange consists of the system prompt and the user response. Due to system design, the latter is not always present.  
 3.
