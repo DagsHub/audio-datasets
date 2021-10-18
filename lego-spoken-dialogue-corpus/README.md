@@ -117,46 +117,31 @@ Annotation Scheme:
 Rater guidelines for annotating Interaction Quality
 ------------------------------------------------------------------------------------------------------------------------
 1. The rater should try to mirror the users point of view on the interaction as objectively as possible.  
-2.
-An exchange consists of the system prompt and the user response. Due to system design, the latter is not always present.  
-3.
-The IQ score is defined on a 5-point scale with “1=bad”, “2=poor”, “3=fair”, “4=good” and “5=excellent”.  
-4.
-The Interaction Quality is to be rated for each exchange in the dialogue. The dialogue’s specific history should be minded.
+2. An exchange consists of the system prompt and the user response. Due to system design, the latter is not always present.  
+3. The IQ score is defined on a 5-point scale with “1=bad”, “2=poor”, “3=fair”, “4=good” and “5=excellent”.  
+4. The Interaction Quality is to be rated for each exchange in the dialogue. The dialogue’s specific history should be minded.
 For Example, a dialogue that has proceeded fairly poor for a long time, should require some time to recover.  
-5.
-A dialogue always starts with an Interaction Quality score 5.  
-6.
-The first user input should also be rated with 5, since until this moment, no rateable interaction has taken place.  
-7.
-A request for help does not invariably cause a lower Interaction Quality, but can result in it.  
-8.
-In general, the score from one exchange to the following exchange is increased or decreased by one point at the most.  
-9.
-Exceptions, where the score can be decreased by two points, are e.g. hot anger or sudden frustration. The rater’s
+5. A dialogue always starts with an Interaction Quality score 5.  
+6. The first user input should also be rated with 5, since until this moment, no rateable interaction has taken place.  
+7. A request for help does not invariably cause a lower Interaction Quality, but can result in it.  
+8. In general, the score from one exchange to the following exchange is increased or decreased by one point at the most.  
+9. Exceptions, where the score can be decreased by two points, are e.g. hot anger or sudden frustration. The rater’s
 perception is decisive here.  
-10.
-Also, if the dialogue obviously collapses due to system or user behavior, the score can be set to 1 immediately. An
+10. Also, if the dialogue obviously collapses due to system or user behavior, the score can be set to 1 immediately. An
 example is a reasonable frustrated sudden hang-up.  
-11.
-Anger does not need to influence the score, but can. You should try to figure out whether it might be caused by the
+11. Anger does not need to influence the score, but can. You should try to figure out whether it might be caused by the
 dialogue behavior or not.  
-12.
-In the case a user realizes that he should adapt his dialogue strategy to obtain the desired result or information and
+12. In the case a user realizes that he should adapt his dialogue strategy to obtain the desired result or information and
 succeeded that way, the Interaction Quality score can be raised up to two points per turn. In a manner of speaking, he
 realizes that he caused the poor Interaction Quality by himself.  
-13.
-If the system does not reply with a bus schedule to a specific user query and prompts that the request is out of scope, this
+13. If the system does not reply with a bus schedule to a specific user query and prompts that the request is out of scope, this
 can be considered as completed task and therefore does not need to affect the Interaction Quality.  
-14.
-If a dialogue consists of several independent queries, each query’s quality is to be rated independently. The dialogues
+14. If a dialogue consists of several independent queries, each query’s quality is to be rated independently. The dialogues
 history shouldnt be minded when a new query begins. But the score provided for the first exchange should be equal to
 the last label of the previous query.  
-15.
-If a dialogue proceeds fairly poor for a long time, the rater should consider to increase the score more slowly if its getting
+15. If a dialogue proceeds fairly poor for a long time, the rater should consider to increase the score more slowly if its getting
 better. Also, in general, he or she should observe the remaining dialogue more critical.  
-16.
-If a constantly low-quality dialogue finishes with a reasonable result, the Interaction Quality should be increased.  
+16. If a constantly low-quality dialogue finishes with a reasonable result, the Interaction Quality should be increased.  
 
 ------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------
