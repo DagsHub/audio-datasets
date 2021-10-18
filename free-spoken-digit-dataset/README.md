@@ -15,12 +15,6 @@ Files are named in the following format:
 `{digitLabel}_{speakerName}_{index}.wav`
 Example: `7_jackson_32.wav`
 
-### Contributions
-Please contribute your homemade recordings. All recordings should be mono 8kHz `wav ` files and be trimmed to have minimal silence. Don't forget to update `metadata.py` with the speaker meta-data.
-
-To add your data, follow the recording instructions in `acquire_data/say_numbers_prompt.py`
-and then run `split_and_label_numbers.py` to make your files.
-
 ### Metadata
 `metadata.py` contains meta-data regarding the speakers gender and accents.
 
