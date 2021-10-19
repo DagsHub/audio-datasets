@@ -1,6 +1,6 @@
 # Acted-Emotional-Speech-Dynamic-Database
 
-Aced Emotional Speech Dynamic Database is a Speech Emotion Recognition Dataset publically available for research purposes.
+Acted Emotional Speech Dynamic Database is a Speech Emotion Recognition Dataset publically available for research purposes.
 
 ![cover](https://i0.wp.com/m3c.web.auth.gr/wp-content/uploads/2020/11/Asset-3pale.png?w=435)
 
