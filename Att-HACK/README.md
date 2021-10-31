@@ -14,7 +14,7 @@ For a more detailed account see the [research article](https://dagshub.com/L-the
 ## Structure
 ```
 
-├── .pdf
+├── Att_HACK_A_Speech_Database_for_the_Study_of_Social_Attitudes_16_03_20.pdf.pdf
 ├── txt
 ├────── F01_a1_s001_v01.txt
 │   ├── ...
