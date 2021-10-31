@@ -1,3 +1,5 @@
+**This dataset is uploaded to [DagsHub](https://github.com/DAGsHub/audio-datasets)**
+
 # Urban Sound 8K dataset
 
 Dataset compiled by Justin Salamon, Christopher Jacoby and Juan Pablo Bello. 
