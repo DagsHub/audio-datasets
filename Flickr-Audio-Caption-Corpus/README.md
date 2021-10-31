@@ -1,5 +1,5 @@
 # The Flickr 8k Audio Caption Corpus
- 
+
 If you use this data, please cite
 
 - D. Harwath and J. Glass, "Deep Multimodal Semantic Embeddings for Speech and Images," 2015 IEEE Automatic Speech Recognition and Understanding Workshop, pp. 237-244, Scottsdale, Arizona, USA, December 2015 [(PDF)](https://groups.csail.mit.edu/sls/publications/2015/Harwath_ASRU-15.pdf)
@@ -11,6 +11,8 @@ https://www.jair.org/index.php/jair/article/view/10833/25854
 
 You can download the original Flickr 8k corpus of text captions here:
 https://forms.illinois.edu/sec/1713398
+
+**The dataset is uploaded to DagsHub: [Flickr-Audio-Caption-Corpus](https://dagshub.com/michizhou/Flickr-Audio-Caption-Corpus), which allows you to preview parts of the dataset before downloading it.**
 
 This data is distributed under the Creative Commons Attribution-ShareAlike (CC BY-SA) license.
 
