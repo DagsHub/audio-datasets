@@ -1,4 +1,4 @@
-# Public Domain Sounds
+# PublicDomainSounds
 
 Good for wake word detection; a wide array of sounds that can be used for object detection research. This is a backup of the 635 copyright-free sound recordings submitted to pdsounds.org before April 2009.
 
