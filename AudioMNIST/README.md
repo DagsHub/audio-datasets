@@ -41,4 +41,6 @@ If you use the provided audioMNIST dataset for your project, please cite [our pa
 
 ---
 
+**[Dataset DAGsHub Repository](https://dagshub.com/mert.bozkirr/AudioMNIST)**
+
 This open source contribution is part of [DagsHub x Hacktoberfest](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
