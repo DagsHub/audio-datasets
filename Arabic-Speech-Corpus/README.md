@@ -27,4 +27,6 @@ Original Dataset: [Arabic-Speech-Corpus](http://en.arabicspeechcorpus.com)
 
 DAGsHub Repository: [mert.bozkirr/Arabic-Speech-Corpus](https://dagshub.com/mert.bozkirr/Arabic-Speech-Corpus)
 
+<!-- This comment is for making a new pull request -->
+
 This open source contribution is part of [DagsHub x Hacktoberfest](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)              
