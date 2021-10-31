@@ -1,6 +1,6 @@
 ## Interpreting and Explaining Deep Neural Networks for Classification of Audio Signals
 
-![image](../assets/AudioMNIST.jpg)
+![image](../assets/AudioMNIST.png)
 
 **Image credit:**    [Christian Lillelund](https://www.kaggle.com/christianlillelund) on [Kaggle](https://www.kaggle.com/)
 
@@ -40,5 +40,7 @@ If you use the provided audioMNIST dataset for your project, please cite [our pa
 ```
 
 ---
+
+**[Dataset DAGsHub Repository](https://dagshub.com/mert.bozkirr/AudioMNIST)**
 
 This open source contribution is part of [DagsHub x Hacktoberfest](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
