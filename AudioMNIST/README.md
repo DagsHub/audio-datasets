@@ -1,6 +1,6 @@
 ## Interpreting and Explaining Deep Neural Networks for Classification of Audio Signals
 
-![image](../assets/AudioMNIST.jpg)
+![image](../assets/AudioMNIST.png)
 
 **Image credit:**    [Christian Lillelund](https://www.kaggle.com/christianlillelund) on [Kaggle](https://www.kaggle.com/)
 
