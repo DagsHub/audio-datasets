@@ -1,5 +1,6 @@
 **This dataset is uploaded to a [DAGsHub](https://dagshub.com/CyberFlame/CommonVoice) repository**
 
+[DAGShub README](https://dagshub.com/CyberFlame/CommonVoice/src/master/README.md)
 # Mozilla Common Voice
 
 If you use the data in a published academic work we would appreciate if you cite the following article:
