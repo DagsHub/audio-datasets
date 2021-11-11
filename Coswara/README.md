@@ -101,5 +101,5 @@ Past Members: Anand Mohan, Ananya Muguli, Prashant Krishnan, Rohit Kumar, Shreya
 
 ---
 
-The DAGshub repository is [here](https://dagshub.com/CyberFlameGO/Coswara-Data)
+The DAGshub repository is [here](https://dagshub.com/CyberFlame/Coswara-Data)
 This open source contribution is part of [DagsHub x Hacktoberfest](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
