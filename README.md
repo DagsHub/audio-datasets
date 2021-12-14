@@ -33,5 +33,5 @@ To help audio practitioners leverage this new feature, we want to enrich open-so
   - Add a directory named after the dataset with the README file.
   - Commit and push the changes to GitHub.
   - Create a pull request on GitHub.
-- Optional: Share the project on DagsHub [Hacktoberfest 2021 Discord channel](https://discord.gg/xAGgkNht).
+- Optional: Share the project on DagsHub [Hacktoberfest 2021 Discord channel](https://discord.com/invite/9gU36Y6).
 
