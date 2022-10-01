@@ -1,13 +1,13 @@
 # Open-source Audio Datasets
 
-![audio-catalog](assets/hacktoberfest.png)
+![banner](https://user-images.githubusercontent.com/66431403/193427111-af11f270-bce0-4ad8-b0f9-02526312a9c2.png)
 
-[Hacktoberfest](https://hacktoberfest.digitalocean.com) is a month-long virtual festival of open source! Participants are giving back to the community by completing pull requests, participating in events, and donating to open-source projects. This project is part of Hacktoberfest 2021, where participants enrich the open-source audio datasets hosted on DagsHub.
+[Hacktoberfest](https://hacktoberfest.com/) is a month-long virtual festival of open source! Participants are giving back to the community by completing pull requests, participating in events, and donating to open-source projects. This project is part of Hacktoberfest 2021, where participants enrich the open-source audio datasets hosted on DagsHub.
 
 ## Quick Start to Contribution
-- Sign-up to [Hacktoberfest](https://hacktoberfest.digitalocean.com/profile) & [DagsHub](https://dagshub.com/user/sign_up?redirect_to=).
-- Join our [Hacktoberfest 2021 Discord channel](https://discord.gg/xAGgkNht).
-- Read the [contribution guide lines](https://hacktoberfest.digitalocean.com/resources/participation).
+- Sign-up to [Hacktoberfest](https://hacktoberfest.com/auth/) & [DagsHub](https://dagshub.com/user/sign_up?redirect_to=).
+- Join our [Hacktoberfest 2022 Discord channel](https://discord.gg/6SsqDCUVeq).
+- Read the [contribution guide lines](https://hacktoberfest.com/participation/).
 - Create a Pull Requests on the GitHub [audio-datasets](https://github.com/DAGsHub/audio-datasets) repository.
 
 
@@ -33,5 +33,5 @@ To help audio practitioners leverage this new feature, we want to enrich open-so
   - Add a directory named after the dataset with the README file.
   - Commit and push the changes to GitHub.
   - Create a pull request on GitHub.
-- Optional: Share the project on DagsHub [Hacktoberfest 2021 Discord channel](https://discord.gg/xAGgkNht).
+- Optional: Share the project on DagsHub [Hacktoberfest 2022 Discord channel](https://discord.gg/6SsqDCUVeq).
 
