@@ -13,7 +13,7 @@ The FSL4 dataset contains ~4000 user-contributed loops uploaded to Freesound. Lo
 
 The dataset contains a number of raw audio files in different formats (wav, aif, flac, mp3 and ogg), and a metadata.json file with metadata about the audio files. Audio files are all contained in the same directory and use Freesound IDs as filenames (e.g. 1234.wav, where the Freesound ID is 1234). The metadata.json file contains a dictionary with keys corresponding to Freesound IDs (note that the .json extension had to be removed because of Zenodo's limitations). Tempo (BPM) annotations can be found in the annotations property of each entry in the dictionary.
 
-The BPM ground truth collected from user annotations is typically correct, but we observed that around 5% of the cases could be wrong or very ambiguous annotations. For research using loops collected from Freesound, we recommend using this newer dataset (link to be added soon) which is more comprehensive and in which all tempo annotations have been manually verified.
+The BPM ground truth collected from user annotations is typically correct, but it was observed that around 5% of the cases could be wrong or very ambiguous annotations.
 
 > Note that even though the dataset metadata is released under CC-BY-4.0 license, the individual audio files have their own Creative Commons licenses. Licenses for these files are listed both in the metadata.json and about.txt  files.
 
