@@ -8,7 +8,7 @@
 
 ## What is Hacktoberfest?
 
-[Hacktoberfest](https://hacktoberfest.com/) is a month-long virtual festival of open source! Participants are giving back to the community by completing pull requests, participating in events, and donating to open-source projects. This project is part of Hacktoberfest 2021, where participants enrich the open-source audio datasets hosted on DagsHub.
+[Hacktoberfest](https://hacktoberfest.com/) is a month-long virtual festival of open source! Participants are giving back to the community by completing pull requests, participating in events, and donating to open-source projects. This project is part of Hacktoberfest 2023, where participants enrich the open-source audio datasets hosted on DagsHub.
 
 ## Quick Start to Contribution
 - Sign-up to [Hacktoberfest](https://hacktoberfest.com/auth/) & [DagsHub](https://dagshub.com/user/sign_up?redirect_to=).
